@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">ShopListApp</string>
+
+    <string id="prompt">Click the menu button</string>
+
+    <string id="menu_label_1">Show lists</string>
+    <string id="menu_label_2">Delete list</string>
+</strings>

@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:6:1-35:12
+INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:6:1-35:12
+INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:6:1-35:12
+INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:6:1-35:12
+INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:6:1-35:12
+INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:6:1-35:12
+INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:6:1-35:12
+	package
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:7:5-57
+		INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:9:5-30
+		INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:6:11-69
+	android:versionCode
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:8:5-28
+		INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:11:5-17
+INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:11:5-17
+INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:11:5-17
+INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:11:5-17
+INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:11:5-17
+	android:targetSdkVersion
+		INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:11:5-17
+		INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:11:5-17
+		INJECTED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:16:5-33:19
+	android:label
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:20:9-40
+activity#shoplistcompanion.caillej.jcinformatics.ch.MainActivity
+ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:27:27-74
+activity#shoplistcompanion.caillej.jcinformatics.ch.DeviceActivity
+ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:30:9-32:48
+	android:label
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from D:\git\ShopListApp\ShopListCompanion\app\src\main\AndroidManifest.xml:31:13-43

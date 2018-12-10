@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "330",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

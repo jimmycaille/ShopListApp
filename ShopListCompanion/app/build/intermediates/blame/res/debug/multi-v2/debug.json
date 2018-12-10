@@ -1,0 +1,125 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "459",
+                        "endColumns": "57",
+                        "endOffsets": "512"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "374",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "522"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "330",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,6440,6495,6556,6636,6692,7167,7278,7341,7521,7615,7702,7777,7862,7914",
+                        "endColumns": "6270,54,60,79,55,474,110,62,179,93,86,74,84,51,76",
+                        "endOffsets": "6435,6490,6551,6631,6687,7162,7273,7336,7516,7610,7697,7772,7857,7909,7986"
+                    }
+                },
+                {
+                    "source": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "19,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "7991,8074",
+                        "endLines": "21,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "8069,8141"
+                    }
+                }
+            ]
+        }
+    ]
+}
