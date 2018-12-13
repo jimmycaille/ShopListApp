@@ -34,6 +34,13 @@ class ListnerShopListsMenu extends WatchUi.Menu2InputDelegate {
     		Communications.transmit([shopListsNames,shopListsContent,shopListsStates], null, new CommListener());
     		return;
     	}
+    	if(item.getId() == -2){
+    		//todo save
+    		System.println("REFRESH...");
+    		showMainMenu=true;
+			WatchUi.popView(SLIDE_IMMEDIATE);
+    		return;
+    	}
     	
     	currShopList = item.getId();
     	System.println("list selected:"+currShopList);

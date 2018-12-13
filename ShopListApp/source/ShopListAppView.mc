@@ -1,9 +1,7 @@
 using Toybox.WatchUi;
 
 class ShopListAppView extends WatchUi.View {
-	var firstView;
     function initialize() {
-    	firstView = true;
         View.initialize();
     }
 
@@ -17,14 +15,15 @@ class ShopListAppView extends WatchUi.View {
     // loading resources into memory.
     function onShow() {
     	//trick to show directly menu https://forums.garmin.com/forum/developers/connect-iq/141922-starting-an-app-in-a-menu
-    	if(firstView){
-    		firstView = false;
+    	if(showMainMenu){
+    		showMainMenu = false;
             var customMenu = new WatchUi.Menu2({:title=>"Shop Lists"});
             
 	        for(var i=0;i<shopListsNames.size();i++){
 	            customMenu.addItem(new WatchUi.MenuItem(shopListsNames[i], null, i, null));
             }
 	        customMenu.addItem(new WatchUi.MenuItem("* SAVE ALL *", null, -1, null));
+	        customMenu.addItem(new WatchUi.MenuItem("* REFRESH *", null, -2, null));
 	        
 	        WatchUi.pushView(customMenu, new ListnerShopListsMenu(), SLIDE_IMMEDIATE);
         }else{

@@ -76,7 +76,7 @@ public class MainActivity extends ListActivity {
         // We could have just called getInstance() which would by default create a version
         // for WIRELESS, unless we had previously gotten an instance passing TETHERED
         // as the connection type.
-        mConnectIQ = ConnectIQ.getInstance(this, IQConnectType.WIRELESS);
+        mConnectIQ = ConnectIQ.getInstance(this, IQConnectType.TETHERED); //WIRELESS
 
         // Initialize the SDK
         mConnectIQ.initialize(this, true, mListener);

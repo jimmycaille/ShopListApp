@@ -72,7 +72,7 @@ public class DeviceActivity extends Activity {
             } else {
                 mAppIsOpen = false;
                 mBtnStartApp.setText("Start app");
-                mBtnUploadLists.setEnabled(false);
+                //mBtnUploadLists.setEnabled(false);
             }
         }
     };

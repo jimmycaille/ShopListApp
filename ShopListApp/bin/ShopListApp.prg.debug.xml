@@ -1,123 +1,128 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="3" lineNum="16" pc="268435456" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="3" lineNum="17" pc="268435460" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="3" lineNum="18" pc="268435478" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="3" lineNum="19" pc="268435495" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="24" pc="268435533" symbol="onStart"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="26" pc="268435537" symbol="onStart"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="27" pc="268435564" symbol="onStart"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="29" pc="268435597" symbol="onStart"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="30" pc="268435624" symbol="onStart"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="32" pc="268435657" symbol="onStart"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="33" pc="268435684" symbol="onStart"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="37" pc="268435717" symbol="onStart"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="5" lineNum="41" pc="268435790" symbol="onStop"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="5" lineNum="43" pc="268435794" symbol="onStop"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="5" lineNum="44" pc="268435825" symbol="onStop"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="5" lineNum="45" pc="268435856" symbol="onStop"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="6" lineNum="52" pc="268435888" symbol="getInitialView"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="6" lineNum="53" pc="268435892" symbol="getInitialView"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="7" lineNum="56" pc="268435960" symbol="onPhone"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="7" lineNum="57" pc="268435964" symbol="onPhone"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="7" lineNum="58" pc="268435986" symbol="onPhone"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="7" lineNum="59" pc="268436008" symbol="onPhone"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="7" lineNum="60" pc="268436030" symbol="onPhone"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="9" lineNum="6" pc="268436047" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="9" lineNum="7" pc="268436051" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="10" lineNum="10" pc="268436070" symbol="onMenu"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="10" lineNum="14" pc="268436074" symbol="onMenu"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="10" lineNum="15" pc="268436097" symbol="onMenu"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="11" lineNum="18" pc="268436122" symbol="onBack"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="11" lineNum="19" pc="268436126" symbol="onBack"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="11" lineNum="20" pc="268436149" symbol="onBack"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="13" lineNum="25" pc="268436174" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="13" lineNum="26" pc="268436178" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="29" pc="268436201" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="31" pc="268436205" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="33" pc="268436225" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="34" pc="268436248" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="35" pc="268436341" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="38" pc="268436345" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="39" pc="268436364" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="40" pc="268436396" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="44" pc="268436446" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="45" pc="268436505" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="46" pc="268436544" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="48" pc="268436639" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="15" lineNum="50" pc="268436688" symbol="onDone"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="15" lineNum="51" pc="268436692" symbol="onDone"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="16" lineNum="53" pc="268436717" symbol="onBack"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="16" lineNum="54" pc="268436721" symbol="onBack"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="18" lineNum="58" pc="268436746" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="18" lineNum="59" pc="268436750" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="19" lineNum="62" pc="268436773" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="19" lineNum="63" pc="268436777" symbol="onSelect"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="21" lineNum="68" pc="268436818" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="21" lineNum="69" pc="268436822" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="22" lineNum="72" pc="268436845" symbol="onComplete"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="22" lineNum="73" pc="268436849" symbol="onComplete"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="23" lineNum="76" pc="268436873" symbol="onError"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="23" lineNum="77" pc="268436877" symbol="onError"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="25" lineNum="5" pc="268436901" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="25" lineNum="6" pc="268436905" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="25" lineNum="7" pc="268436915" symbol="initialize"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="26" lineNum="11" pc="268436934" symbol="onLayout"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="26" lineNum="12" pc="268436938" symbol="onLayout"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="18" pc="268436976" symbol="onShow"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="20" pc="268436980" symbol="onShow"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="21" pc="268436991" symbol="onShow"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="22" pc="268437001" symbol="onShow"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="24" pc="268437048" symbol="onShow"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="25" pc="268437078" symbol="onShow"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="27" pc="268437144" symbol="onShow"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="29" pc="268437194" symbol="onShow"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="31" pc="268437245" symbol="onShow"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="28" lineNum="36" pc="268437274" symbol="onUpdate"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="28" lineNum="38" pc="268437278" symbol="onUpdate"/>
-<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="29" lineNum="44" pc="268437299" symbol="onHide"/>
-<entry filename="Rez" id="35" lineNum="16" pc="268437304" symbol="initialize"/>
-<entry filename="Rez" id="35" lineNum="17" pc="268437308" symbol="initialize"/>
-<entry filename="Rez" id="35" lineNum="18" pc="268437326" symbol="initialize"/>
-<entry filename="Rez" id="35" lineNum="19" pc="268437378" symbol="initialize"/>
-<entry filename="Rez" id="38" lineNum="37" pc="268437431" symbol="MainLayout"/>
-<entry filename="Rez" id="38" lineNum="41" pc="268437443" symbol="MainLayout"/>
-<entry filename="Rez" id="38" lineNum="42" pc="268437614" symbol="MainLayout"/>
-<entry filename="Rez" id="38" lineNum="43" pc="268437647" symbol="MainLayout"/>
-<entry filename="Rez" id="38" lineNum="44" pc="268437699" symbol="MainLayout"/>
-<entry filename="Rez" id="38" lineNum="45" pc="268437815" symbol="MainLayout"/>
-<entry filename="Rez" id="38" lineNum="48" pc="268437867" symbol="MainLayout"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="3" lineNum="17" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="3" lineNum="18" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="3" lineNum="19" pc="268435478" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="3" lineNum="20" pc="268435495" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="25" pc="268435533" symbol="onStart"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="27" pc="268435537" symbol="onStart"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="28" pc="268435564" symbol="onStart"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="30" pc="268435597" symbol="onStart"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="31" pc="268435624" symbol="onStart"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="33" pc="268435657" symbol="onStart"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="34" pc="268435684" symbol="onStart"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="4" lineNum="38" pc="268435717" symbol="onStart"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="5" lineNum="42" pc="268435790" symbol="onStop"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="5" lineNum="44" pc="268435794" symbol="onStop"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="5" lineNum="45" pc="268435825" symbol="onStop"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="5" lineNum="46" pc="268435856" symbol="onStop"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="6" lineNum="53" pc="268435888" symbol="getInitialView"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="6" lineNum="54" pc="268435892" symbol="getInitialView"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="7" lineNum="57" pc="268435960" symbol="onPhone"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="7" lineNum="58" pc="268435964" symbol="onPhone"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="7" lineNum="59" pc="268435984" symbol="onPhone"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="7" lineNum="60" pc="268436006" symbol="onPhone"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppApp.mc" id="7" lineNum="61" pc="268436028" symbol="onPhone"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="9" lineNum="6" pc="268436054" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="9" lineNum="7" pc="268436058" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="10" lineNum="10" pc="268436077" symbol="onMenu"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="10" lineNum="14" pc="268436081" symbol="onMenu"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="10" lineNum="15" pc="268436104" symbol="onMenu"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="11" lineNum="18" pc="268436129" symbol="onBack"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="11" lineNum="19" pc="268436133" symbol="onBack"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="11" lineNum="20" pc="268436156" symbol="onBack"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="13" lineNum="25" pc="268436181" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="13" lineNum="26" pc="268436185" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="29" pc="268436208" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="31" pc="268436212" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="33" pc="268436232" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="34" pc="268436255" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="35" pc="268436348" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="37" pc="268436352" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="39" pc="268436372" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="40" pc="268436395" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="41" pc="268436405" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="42" pc="268436429" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="45" pc="268436433" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="46" pc="268436452" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="47" pc="268436484" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="51" pc="268436534" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="52" pc="268436593" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="53" pc="268436632" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="14" lineNum="55" pc="268436727" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="15" lineNum="57" pc="268436776" symbol="onDone"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="15" lineNum="58" pc="268436780" symbol="onDone"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="16" lineNum="60" pc="268436805" symbol="onBack"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="16" lineNum="61" pc="268436809" symbol="onBack"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="18" lineNum="65" pc="268436834" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="18" lineNum="66" pc="268436838" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="19" lineNum="69" pc="268436861" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="19" lineNum="70" pc="268436865" symbol="onSelect"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="21" lineNum="75" pc="268436906" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="21" lineNum="76" pc="268436910" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="22" lineNum="79" pc="268436933" symbol="onComplete"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="22" lineNum="80" pc="268436937" symbol="onComplete"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="23" lineNum="83" pc="268436961" symbol="onError"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppDelegate.mc" id="23" lineNum="84" pc="268436965" symbol="onError"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="25" lineNum="4" pc="268436989" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="25" lineNum="5" pc="268436993" symbol="initialize"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="26" lineNum="9" pc="268437012" symbol="onLayout"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="26" lineNum="10" pc="268437016" symbol="onLayout"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="16" pc="268437054" symbol="onShow"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="18" pc="268437058" symbol="onShow"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="19" pc="268437069" symbol="onShow"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="20" pc="268437079" symbol="onShow"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="22" pc="268437126" symbol="onShow"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="23" pc="268437156" symbol="onShow"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="25" pc="268437222" symbol="onShow"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="26" pc="268437272" symbol="onShow"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="28" pc="268437322" symbol="onShow"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="27" lineNum="30" pc="268437373" symbol="onShow"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="28" lineNum="35" pc="268437402" symbol="onUpdate"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="28" lineNum="37" pc="268437406" symbol="onUpdate"/>
+<entry filename="D:\\git\\ShopListApp\\ShopListApp\\source\\ShopListAppView.mc" id="29" lineNum="43" pc="268437427" symbol="onHide"/>
+<entry filename="Rez" id="35" lineNum="16" pc="268437432" symbol="initialize"/>
+<entry filename="Rez" id="35" lineNum="17" pc="268437436" symbol="initialize"/>
+<entry filename="Rez" id="35" lineNum="18" pc="268437454" symbol="initialize"/>
+<entry filename="Rez" id="35" lineNum="19" pc="268437506" symbol="initialize"/>
+<entry filename="Rez" id="38" lineNum="37" pc="268437559" symbol="MainLayout"/>
+<entry filename="Rez" id="38" lineNum="41" pc="268437571" symbol="MainLayout"/>
+<entry filename="Rez" id="38" lineNum="42" pc="268437742" symbol="MainLayout"/>
+<entry filename="Rez" id="38" lineNum="43" pc="268437775" symbol="MainLayout"/>
+<entry filename="Rez" id="38" lineNum="44" pc="268437827" symbol="MainLayout"/>
+<entry filename="Rez" id="38" lineNum="45" pc="268437943" symbol="MainLayout"/>
+<entry filename="Rez" id="38" lineNum="48" pc="268437995" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
 <entry id="8388637" module="true" symbol="Communications"/>
-<entry field="true" id="29" symbol="firstView"/>
 <entry field="true" id="8389642" symbol="title"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="9" symbol="currShopList"/>
-<entry id="23" object="true" symbol="MainMenu"/>
+<entry field="true" id="10" symbol="currShopList"/>
+<entry id="24" object="true" symbol="MainMenu"/>
 <entry id="8389619" method="true" symbol="onSelect"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="18" object="true" symbol="ShopListAppView"/>
+<entry id="19" object="true" symbol="ShopListAppView"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
-<entry id="24" method="true" symbol="MainLayout"/>
+<entry id="25" method="true" symbol="MainLayout"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry field="true" id="12" symbol="shopListsStates"/>
-<entry id="14" object="true" symbol="ShopListAppDelegate"/>
+<entry field="true" id="13" symbol="shopListsStates"/>
+<entry id="15" object="true" symbol="ShopListAppDelegate"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry field="true" id="28" symbol="AppName"/>
+<entry field="true" id="29" symbol="AppName"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
 <entry id="32" symbol="item_2"/>
 <entry id="31" symbol="item_1"/>
-<entry field="true" id="22" symbol="LauncherIcon"/>
-<entry id="17" object="true" symbol="CommListener"/>
-<entry field="true" id="26" symbol="menu_label_2"/>
+<entry field="true" id="23" symbol="LauncherIcon"/>
+<entry id="18" object="true" symbol="CommListener"/>
+<entry field="true" id="27" symbol="menu_label_2"/>
 <entry id="8389081" method="true" symbol="onBack"/>
-<entry field="true" id="25" symbol="menu_label_1"/>
+<entry field="true" id="26" symbol="menu_label_1"/>
+<entry field="true" id="9" symbol="showMainMenu"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8388829" method="true" symbol="onComplete"/>
@@ -126,45 +131,45 @@
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="21" symbol="id_monkey"/>
+<entry field="true" id="22" symbol="id_monkey"/>
 <entry id="8390422" method="true" symbol="onDone"/>
 <entry id="8389348" symbol="font"/>
 <entry id="8389347" symbol="color"/>
-<entry id="15" object="true" symbol="ListnerShopListsMenu"/>
-<entry field="true" id="10" symbol="shopListsNames"/>
-<entry id="20" module="true" symbol="Layouts"/>
-<entry field="true" id="27" symbol="prompt"/>
+<entry id="16" object="true" symbol="ListnerShopListsMenu"/>
+<entry field="true" id="11" symbol="shopListsNames"/>
+<entry id="21" module="true" symbol="Layouts"/>
+<entry field="true" id="28" symbol="prompt"/>
 <entry id="8389939" method="true" symbol="registerForPhoneAppMessages"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="11" symbol="shopListsContent"/>
-<entry id="16" object="true" symbol="ListnerListItems"/>
+<entry field="true" id="12" symbol="shopListsContent"/>
+<entry id="17" object="true" symbol="ListnerListItems"/>
 <entry id="8389345" symbol="rezId"/>
 <entry id="8388828" method="true" symbol="onError"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry id="30" method="true" symbol="onPhone"/>
-<entry id="13" object="true" symbol="ShopListAppApp"/>
+<entry id="14" object="true" symbol="ShopListAppApp"/>
 <entry id="8389346" symbol="text"/>
 <entry field="true" id="8389063" symbol="identifier"/>
-<entry id="19" module="true" symbol="Menus"/>
+<entry id="20" module="true" symbol="Menus"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435790" name="state" stackId="1" startPc="268435533"/>
 <entry endPc="268435888" name="state" stackId="1" startPc="268435790"/>
-<entry endPc="268436047" name="msg" stackId="1" startPc="268435960"/>
-<entry endPc="268436639" name="i" stackId="3" startPc="268436544"/>
-<entry endPc="268436687" name="checkMenu" stackId="2" startPc="268436205"/>
-<entry endPc="268436688" name="item" stackId="1" startPc="268436201"/>
-<entry endPc="268436818" name="item" stackId="1" startPc="268436773"/>
-<entry endPc="268436976" name="dc" stackId="1" startPc="268436934"/>
-<entry endPc="268437144" name="i" stackId="2" startPc="268437078"/>
-<entry endPc="268437242" name="customMenu" stackId="1" startPc="268436991"/>
-<entry endPc="268437299" name="dc" stackId="1" startPc="268437274"/>
-<entry endPc="268437894" name="rez_cmp_local_bitmap_2944802491_fontHeight" stackId="3" startPc="268437443"/>
-<entry endPc="268437894" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268437443"/>
-<entry endPc="268437894" name="rez_cmp_local_bitmap_2944802491" stackId="2" startPc="268437443"/>
-<entry endPc="268437895" name="dc" stackId="1" startPc="268437431"/>
+<entry endPc="268436054" name="msg" stackId="1" startPc="268435960"/>
+<entry endPc="268436727" name="i" stackId="3" startPc="268436632"/>
+<entry endPc="268436775" name="checkMenu" stackId="2" startPc="268436212"/>
+<entry endPc="268436776" name="item" stackId="1" startPc="268436208"/>
+<entry endPc="268436906" name="item" stackId="1" startPc="268436861"/>
+<entry endPc="268437054" name="dc" stackId="1" startPc="268437012"/>
+<entry endPc="268437222" name="i" stackId="2" startPc="268437156"/>
+<entry endPc="268437370" name="customMenu" stackId="1" startPc="268437069"/>
+<entry endPc="268437427" name="dc" stackId="1" startPc="268437402"/>
+<entry endPc="268438022" name="rez_cmp_local_bitmap_1365799621" stackId="2" startPc="268437571"/>
+<entry endPc="268438022" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268437571"/>
+<entry endPc="268438022" name="rez_cmp_local_bitmap_1365799621_fontHeight" stackId="3" startPc="268437571"/>
+<entry endPc="268438023" name="dc" stackId="1" startPc="268437559"/>
 </localVars>
 <annotations/>
 <functions>
@@ -251,17 +256,17 @@
 </functions>
 <dataEntryOffsetMappings>
 <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry offset="238" parentId="globals" symbolId="ShopListAppDelegate" type="class"/>
-<dataEntry offset="301" parentId="globals" symbolId="ListnerListItems" type="class"/>
-<dataEntry offset="356" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="435" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="482" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="521" parentId="Menus" symbolId="MainMenu" type="class"/>
-<dataEntry offset="568" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="599" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="630" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="669" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="732" parentId="globals" symbolId="ShopListAppView" type="class"/>
+<dataEntry offset="246" parentId="globals" symbolId="ShopListAppDelegate" type="class"/>
+<dataEntry offset="309" parentId="globals" symbolId="ListnerListItems" type="class"/>
+<dataEntry offset="364" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="443" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="490" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="529" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="576" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="607" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="638" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="677" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="740" parentId="globals" symbolId="ShopListAppView" type="class"/>
 <dataEntry offset="819" parentId="globals" symbolId="ShopListAppApp" type="class"/>
 <dataEntry offset="898" parentId="globals" symbolId="CommListener" type="class"/>
 <dataEntry offset="961" parentId="globals" symbolId="ListnerShopListsMenu" type="class"/>

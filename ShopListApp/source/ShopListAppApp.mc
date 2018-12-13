@@ -1,6 +1,7 @@
 using Toybox.Application;
 using Toybox.WatchUi;
 
+var showMainMenu     =true;
 var currShopList     =0;
 var shopListsNames   =[];
 var shopListsContent =[];
@@ -54,10 +55,11 @@ class ShopListAppApp extends Application.AppBase {
     }
     
     function onPhone(msg) {
-    	shopListsNames   = msg.data[0];
-    	shopListsContent = msg.data[1];
-    	shopListsStates  = msg.data[2];
-        WatchUi.requestUpdate();
+    	if(msg.size()==3){
+	    	shopListsNames   = msg.data[0];
+	    	shopListsContent = msg.data[1];
+	    	shopListsStates  = msg.data[2];
+        }
     }
 
 }
