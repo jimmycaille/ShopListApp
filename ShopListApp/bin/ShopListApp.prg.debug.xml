@@ -166,9 +166,9 @@
 <entry endPc="268437222" name="i" stackId="2" startPc="268437156"/>
 <entry endPc="268437370" name="customMenu" stackId="1" startPc="268437069"/>
 <entry endPc="268437427" name="dc" stackId="1" startPc="268437402"/>
-<entry endPc="268438022" name="rez_cmp_local_bitmap_1365799621" stackId="2" startPc="268437571"/>
 <entry endPc="268438022" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268437571"/>
-<entry endPc="268438022" name="rez_cmp_local_bitmap_1365799621_fontHeight" stackId="3" startPc="268437571"/>
+<entry endPc="268438022" name="rez_cmp_local_bitmap_7569297104_fontHeight" stackId="3" startPc="268437571"/>
+<entry endPc="268438022" name="rez_cmp_local_bitmap_7569297104" stackId="2" startPc="268437571"/>
 <entry endPc="268438023" name="dc" stackId="1" startPc="268437559"/>
 </localVars>
 <annotations/>

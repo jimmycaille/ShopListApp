@@ -39,7 +39,6 @@ public class MainActivity extends ListActivity {
         public void onDeviceStatusChanged(IQDevice device, IQDeviceStatus status) {
             mAdapter.updateDeviceStatus(device, status);
         }
-
     };
 
     private ConnectIQListener mListener = new ConnectIQListener() {

@@ -76,9 +76,11 @@
                 {
                     "source": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "239,298",
+                        "endColumns": "57,55",
+                        "endOffsets": "292,349"
                     },
                     "to": {
                         "startLines": "2,3",
@@ -91,9 +93,11 @@
                 {
                     "source": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "20,7,16,9,8,19,18,34,35,13,12,14,10,17,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1528,206,825,319,262,1052,940,8308,8372,652,564,747,400,887,486",
+                        "endColumns": "6270,54,60,79,55,474,110,62,179,93,86,74,84,51,76",
+                        "endOffsets": "7794,256,881,394,313,1522,1046,8366,8547,741,646,817,480,934,558"
                     },
                     "to": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
@@ -106,17 +110,20 @@
                 {
                     "source": "D:\\git\\ShopListApp\\ShopListCompanion\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
+                        "startLines": "10,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "339,672",
+                        "endLines": "16,21",
+                        "endColumns": "12,12",
+                        "endOffsets": "631,829"
                     },
                     "to": {
-                        "startLines": "19,22",
+                        "startLines": "19,26",
                         "startColumns": "4,4",
-                        "startOffsets": "7991,8074",
-                        "endLines": "21,24",
+                        "startOffsets": "7991,8282",
+                        "endLines": "25,28",
                         "endColumns": "12,12",
-                        "endOffsets": "8069,8141"
+                        "endOffsets": "8277,8437"
                     }
                 }
             ]
